@@ -19,13 +19,13 @@ class Ricty < Formula
 
   resource 'inconsolataregular' do
     url 'https://github.com/google/fonts/raw/master/ofl/inconsolata/Inconsolata-Regular.ttf'
-    sha256 '346eff8b8292ef2b8026cf1dbea3fc0c79eba444270d38d73da895ddcba74e15'
+    sha256 'e28c150b4390e5fd59aedc2c150b150086fbcba0b4dbde08ac260d6db65018d6'
     version '1.0.0'
   end
 
   resource 'inconsolatabold' do
     url 'https://github.com/google/fonts/raw/master/ofl/inconsolata/Inconsolata-Bold.ttf'
-    sha256 '0db9dc0cf39efef147a7b368c98e1b7588afd2bc4d30e4c9e313f5511e599a87'
+    sha256 'c268fae6dbf17a27f648218fac958b86dc38e169f6315f0b02866966f56b42bf'
     version '1.0.0'
   end
 
